@@ -26,5 +26,5 @@
  物体识别  |   活动需要拍照上传3张文物上有鸟的图片       |    次重要      
  
 ### （六）产品原型
-[产品原型下载](https://github.com/ViTaSoyi/museum_prototype/)
+[产品原型下载](https://github.com/ViTaSoyi/museum_prototype/)  
 [产品原型交互](https://vitasoyi.github.io/museum_prototype/strat.html)
