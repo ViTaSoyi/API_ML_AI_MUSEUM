@@ -39,20 +39,20 @@
 #### 核心功能页面
 - **随你讲解**  
 > 使用流程：进入随你讲解页面 —— 选择男声/女声 —— 播放当前定位展厅的讲解 —— 点击定位 —— 搜索/选择定位 —— 播放选择展厅的讲解  
-[随你讲解首页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E8%AE%B2%E8%A7%A3.png)
-[选择定位](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E5%AE%9A%E4%BD%8D.png)  
+![随你讲解首页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E8%AE%B2%E8%A7%A3.png)
+![选择定位](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E5%AE%9A%E4%BD%8D.png)  
 
 - **活动**  
 > 使用流程：进入活动页面 —— 选择任一活动浏览/参加 —— 点击扫描 —— 扫描目标物体 —— 返回审核结果  
-[活动首页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E6%B4%BB%E5%8A%A8.png)
-[活动详情页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E6%B4%BB%E5%8A%A8%E8%AF%A6%E6%83%85.png)
-[扫描物体](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E7%89%A9%E4%BD%93%E6%89%AB%E6%8F%8F.png)
-[审核结果](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)  
+![活动首页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E6%B4%BB%E5%8A%A8.png)
+![活动详情页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E6%B4%BB%E5%8A%A8%E8%AF%A6%E6%83%85.png)
+![扫描物体](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E7%89%A9%E4%BD%93%E6%89%AB%E6%8F%8F.png)
+![审核结果](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)  
 
 - **与古人合照**  
 > 使用流程：进入与古人合照页面 —— 选择拍照 —— 拍摄目标人物 —— 返回抠图后的效果图 —— 与ta合拍 —— 返回合拍后的图片  
-[合照首页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E5%90%88%E7%85%A7.png)
-[拍摄目标人物](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E4%BA%BA%E5%83%8F%E5%88%86%E5%89%B2%E6%8B%8D%E7%85%A7.png)
-[抠图后的效果图](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E4%BA%BA%E5%83%8F%E5%88%86%E5%89%B2%E7%BB%93%E6%9E%9C.png)
-[合拍](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E4%BA%BA%E5%83%8F%E5%90%88%E6%8B%8D.png)
-[合拍图](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E5%90%88%E6%8B%8D%E8%BF%94%E5%9B%9E%E7%BB%93%E6%9E%9C.png)
+![合照首页](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E5%90%88%E7%85%A7.png)
+![拍摄目标人物](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E4%BA%BA%E5%83%8F%E5%88%86%E5%89%B2%E6%8B%8D%E7%85%A7.png)
+![抠图后的效果图](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E4%BA%BA%E5%83%8F%E5%88%86%E5%89%B2%E7%BB%93%E6%9E%9C.png)
+![合拍](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E4%BA%BA%E5%83%8F%E5%90%88%E6%8B%8D.png)
+![合拍图](https://github.com/ViTaSoyi/API_ML_AI_MUSEUM/blob/master/images/%E5%90%88%E6%8B%8D%E8%BF%94%E5%9B%9E%E7%BB%93%E6%9E%9C.png)
