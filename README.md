@@ -34,7 +34,7 @@
 虽不能准确识别出该物体的具体类别，但能返回该物体所属的大类，满足我们产品活动中检索物体属性的基本需求。但若光线不足的情况下，会影响判断，并且若相框内同时出现多个物体，会同时返回每个物体的类别，影响我们后台对用户收集的统计，从而影响用户的情绪。为此，当用户在使用此项功能时，产品会提醒用户要在光线较亮的情况下进行扫描物体，并且要尽量保证镜头单独对准目标物体。
 ### （七）产品原型
 [产品原型下载](https://github.com/ViTaSoyi/museum_prototype/)  
-[产品原型交互](https://vitasoyi.github.io/museum_prototype/start.html)（可交互）
+[产品原型交互](https://vitasoyi.github.io/museum_prototype/index.html)（可交互）
 
 #### 核心功能页面
 - **随你讲解**  
